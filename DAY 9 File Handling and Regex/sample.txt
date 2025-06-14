@@ -1,0 +1,3 @@
+Hello! My name is Neha Shrestha. 
+I love Python Programming
+python is used to build AI projects
